@@ -112,10 +112,6 @@
     margin-right: auto
 }
 
-a:link {
-cursor: pointer;
-}
-
 #facebook .hidden_elem {
     display: none !important
 }
